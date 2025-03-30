@@ -1,4 +1,4 @@
-use std::{default, io::Error};
+use std::io::Error;
 use super::terminal::{Size, Terminal};
 
 const NAME: &str = env!("CARGO_PKG_NAME");

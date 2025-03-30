@@ -1,4 +1,3 @@
-use core::fmt::Display;
 use std::io::{stdout, Error, Write};
 
 use crossterm::cursor::{Hide, MoveTo, Show};
